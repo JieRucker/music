@@ -23,7 +23,7 @@ npm install
 node app.js
 ```
 
-### 前台项目
+### 前端项目
 
 ``` bash
 # install dependencies
